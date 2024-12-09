@@ -1,0 +1,119 @@
+@media (max-width:1200px) {
+    .main__team-cards {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .header__content-title {
+        font-size: 46px;
+    }
+
+    .header__content-info {
+        max-width: 456px;
+        width: 100%;
+    }
+
+    .main__content-first-img {
+        max-width: 348px;
+        width: 100%;
+    }
+
+    .content__first-block-title {
+        font-size: 25px;
+    }
+    
+}
+
+@media (max-width:1000px) {
+    .main__content-first {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .header__content-info {
+        max-width: 456px;
+        width: 100%;
+    }
+
+    .main__content-first-img{
+        max-width: 248px;
+        width: 100%;
+    }
+
+    .footer__content {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+
+    .main__content-first-block {
+        align-items: center;
+    }
+}
+
+@media (max-width:800px) {
+    .header__content {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .header__content-links {
+        justify-content: center;
+    }
+
+    .header__nav {
+        flex-direction: column;
+        padding: 28px 0;
+        gap: 20px;
+    }
+
+    .header__nav-list {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 41px;
+    }
+
+    .subcribe__email-input::placeholder {
+        font-size: 8px;
+    }
+
+    .subscribe__email-input {
+        padding-left: 0;
+        width: 95%;
+    }
+
+    .subcribe__email-btn {
+        padding: 8px 0;
+        font-size: 15px;
+    }
+
+    .main__subscribe-email {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .footer__content {
+        gap: 51px;
+    }
+
+    .footer__content-f {
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .footer__info {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .main__subcribe-title,
+    .main__team-title,
+    .content__first-block-title {
+        font-size: 30px;
+    }
+}

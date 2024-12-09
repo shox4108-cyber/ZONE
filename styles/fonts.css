@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'DB';
+    src: url('../fonts/DMSans_24pt-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'DM';
+    src: url('../fonts/DMSans_36pt-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'DR';
+    src: url('../fonts/DMSans_36pt-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'RBR';
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'RR';
+    src: url('../fonts/Rubik-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'RM';
+    src: url('../fonts/Rubik-Medium.ttf');
+}
